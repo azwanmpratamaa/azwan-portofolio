@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.name {
+  background-color: white;
+  width: 200px;
+  height: 100px;
+  margin: 50px auto;
+  text-align: center;
+  border: 5px solid black;
+  Tipografi
+}
+
+.upin {
+  font-family: 'Bebas Neue';
+  width: 200px;
+  height: 120px;
+  margin:50px auto;
+  text-align: center;
+}
+
+. Azwan {
+  width: 200px;
+  height: 100px;
+  margin: 50px auto;
+  text-align-last: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+* {
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.ipin {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.opah {
+  font-family: 'Inconsolata', monospace;
+}
+
+.me {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+
+.you {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.I {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.hope {
+  font-family: 'Inconsolata', Monospace;
+  font-size: 20px;
+}
+
+.friend {
+  font-family: 'Bebas Neue', Monospace;
+  font-size: 20px;
+}
+
+. {
+  font-family: 'Bebas Neue', Monospace;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 30px;
+}
+
+.arial {
+  font-family: arial;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {font-family: 'Bebas Neue', cursive;
+  
+  }
